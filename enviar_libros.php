@@ -21,6 +21,7 @@ if (isset($_POST['submit'])) {
    
 
     header('Location: libros.php');
+    s
 
 }
 }
