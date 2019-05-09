@@ -17,7 +17,7 @@
 <body>
 
       <div class="col-md-6 col-md-offset-6">
-                <div style="padding-left:-25%;margin-left:-27.8%;">
+                <div style="padding-left:-25%;margin-left:27.8%;">
                 
         
             
